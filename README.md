@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Akif Emre</h1>
+<h3 align="center">A passionate developer about AI, Computational Social Science</h3>
 
-<!--
-**capogluuu/capogluuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [**YesilScience**](https://www.yesilscience.com/) 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **MLOps**, **Anomaly Detection**, **Computer Vision**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📝 I regulary write articles on [**Karmaşık Sistemler ve Veri Bilimi Topluluğu**](https://medium.com/kaveai)
+
+- 📫 How to reach me **capogluuu@gmail.com**
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/capogluuu/)
+
+
+##  📚 Latest Blog Posts
+- [Grafik Üreticiliğinde Yeni Çağ: DALL-E](https://medium.com/t%C3%BCrkiye/grafik-%C3%BCreticili%C4%9Finde-yeni-%C3%A7a%C4%9F-dall-e-6db23590c52b)
+- [K-Nearest Neighbor with Scratch (KNN)](https://medium.com/analytics-vidhya/k-nearest-neighbor-with-scratch-knn-75bf088729b)
+- [Whatsapp Verilerimizi Satıyormuş!](https://medium.com/t%C3%BCrkiye/whatsapp-verilerimizi-sat%C4%B1yormu%C5%9F-41460cc1b6b2)
+
+[![Github Stat](https://github-readme-stats.vercel.app/api?username=capogluuu&count_private=true&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=mdurmuss)

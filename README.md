@@ -17,4 +17,4 @@
 - [K-Nearest Neighbor with Scratch (KNN) (Eng)](https://medium.com/analytics-vidhya/k-nearest-neighbor-with-scratch-knn-75bf088729b)
 - [Whatsapp Verilerimizi Satıyormuş!](https://medium.com/t%C3%BCrkiye/whatsapp-verilerimizi-sat%C4%B1yormu%C5%9F-41460cc1b6b2)
 
-[![Github Stat](https://github-readme-stats.vercel.app/api?username=capogluuu&count_private=true&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=mdurmuss)
+[![Github Stat](https://github-readme-stats.vercel.app/api?username=capogluuu&count_private=true&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=capogluuu)

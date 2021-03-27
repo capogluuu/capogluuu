@@ -18,5 +18,5 @@
 - [Whatsapp Verilerimizi Satıyormuş!](https://medium.com/t%C3%BCrkiye/whatsapp-verilerimizi-sat%C4%B1yormu%C5%9F-41460cc1b6b2)
 
 [![Github Stat](https://github-readme-stats.vercel.app/api?username=capogluuu&count_private=true&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=capogluuu)
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capogluuu&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=capogluuu&layout=compact)](https://github.com/mohit01-beep/github-readme-stats)
 

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [**YesilScience**](https://www.yesilscience.com/) 
 
-- 🌱 I’m currently learning **MLOps**, **Anomaly Detection**, **Computer Vision**
+- 🌱 I’m currently learning **MLOps**, **Anomaly Detection**, **Computer Vision**, **NLP**
 
 - 📝 I regulary write articles on [**Karmaşık Sistemler ve Veri Bilimi Topluluğu**](https://medium.com/kaveai)
 

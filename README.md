@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Akif Emre</h1>
 <h3 align="center">A passionate developer about AI, Computational Social Science</h3>
 
-- 🔭 I’m currently working on [**YesilScience**](https://www.yesilscience.com/) 
 
 - 🌱 I’m currently learning **MLOps**, **Anomaly Detection**, **Computer Vision**, **NLP**
 

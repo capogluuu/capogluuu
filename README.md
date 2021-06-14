@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer about AI, Computational Social Science</h3>
 
 
-- 🌱 I’m currently learning **MLOps**, **Anomaly Detection**, **Computer Vision**, **NLP**
+- 🌱 I’m currently learning **Generative Adversarial Network**, **Computer Vision**, **NLP**
 
 - 📝 I regulary write articles on [**Karmaşık Sistemler ve Veri Bilimi Topluluğu**](https://medium.com/kaveai)
 

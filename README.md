@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **capogluuu@gmail.com**
 
-- 📧 You can access my resume from [**HERE**](https://github.com/capogluuu/capogluuu/blob/main/AKIF_EMRE_CAPOGLU_CV-converted.pdf) 
+- 📧 You can access my resume from [**HERE**](https://github.com/capogluuu/capogluuu/blob/main/Resume_Template_by_Anubhav.pdf) 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/capogluuu/)
 
